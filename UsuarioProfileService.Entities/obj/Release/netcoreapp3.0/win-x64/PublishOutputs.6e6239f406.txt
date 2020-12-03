@@ -1,0 +1,7 @@
+C:\Users\misat\OneDrive\Desktop\UserProfile\app\UsuarioProfileService.Entities.dll
+C:\Users\misat\OneDrive\Desktop\UserProfile\app\UsuarioProfileService.Entities.deps.json
+C:\Users\misat\OneDrive\Desktop\UserProfile\app\UsuarioProfileService.Entities.pdb
+C:\Users\misat\OneDrive\Desktop\UserProfile\app\Microsoft.OpenApi.dll
+C:\Users\misat\OneDrive\Desktop\UserProfile\app\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\misat\OneDrive\Desktop\UserProfile\app\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\misat\OneDrive\Desktop\UserProfile\app\Swashbuckle.AspNetCore.SwaggerUI.dll

@@ -1,0 +1,27 @@
+C:\Users\misat\OneDrive\Desktop\repositorios\ISW\revitest\Revifast.Entities\bin\Debug\netcoreapp3.0\Revifast.Entities.deps.json
+C:\Users\misat\OneDrive\Desktop\repositorios\ISW\revitest\Revifast.Entities\bin\Debug\netcoreapp3.0\Revifast.Entities.dll
+C:\Users\misat\OneDrive\Desktop\repositorios\ISW\revitest\Revifast.Entities\bin\Debug\netcoreapp3.0\Revifast.Entities.pdb
+C:\Users\misat\OneDrive\Desktop\repositorios\ISW\revitest\Revifast.Entities\obj\Debug\netcoreapp3.0\Revifast.Entities.csprojAssemblyReference.cache
+C:\Users\misat\OneDrive\Desktop\repositorios\ISW\revitest\Revifast.Entities\obj\Debug\netcoreapp3.0\Revifast.Entities.AssemblyInfoInputs.cache
+C:\Users\misat\OneDrive\Desktop\repositorios\ISW\revitest\Revifast.Entities\obj\Debug\netcoreapp3.0\Revifast.Entities.AssemblyInfo.cs
+C:\Users\misat\OneDrive\Desktop\repositorios\ISW\revitest\Revifast.Entities\obj\Debug\netcoreapp3.0\Revifast.Entities.csproj.CoreCompileInputs.cache
+C:\Users\misat\OneDrive\Desktop\repositorios\ISW\revitest\Revifast.Entities\obj\Debug\netcoreapp3.0\Revifast.Entities.dll
+C:\Users\misat\OneDrive\Desktop\repositorios\ISW\revitest\Revifast.Entities\obj\Debug\netcoreapp3.0\Revifast.Entities.pdb
+D:\UPC\ISW\revitest\Revifast.Entities\bin\Debug\netcoreapp3.0\Revifast.Entities.deps.json
+D:\UPC\ISW\revitest\Revifast.Entities\bin\Debug\netcoreapp3.0\Revifast.Entities.dll
+D:\UPC\ISW\revitest\Revifast.Entities\bin\Debug\netcoreapp3.0\Revifast.Entities.pdb
+D:\UPC\ISW\revitest\Revifast.Entities\obj\Debug\netcoreapp3.0\Revifast.Entities.csprojAssemblyReference.cache
+D:\UPC\ISW\revitest\Revifast.Entities\obj\Debug\netcoreapp3.0\Revifast.Entities.AssemblyInfoInputs.cache
+D:\UPC\ISW\revitest\Revifast.Entities\obj\Debug\netcoreapp3.0\Revifast.Entities.AssemblyInfo.cs
+D:\UPC\ISW\revitest\Revifast.Entities\obj\Debug\netcoreapp3.0\Revifast.Entities.csproj.CoreCompileInputs.cache
+D:\UPC\ISW\revitest\Revifast.Entities\obj\Debug\netcoreapp3.0\Revifast.Entities.dll
+D:\UPC\ISW\revitest\Revifast.Entities\obj\Debug\netcoreapp3.0\Revifast.Entities.pdb
+D:\UPC\ISW\New folder\ReviTest\Revifast.Entities\bin\Debug\netcoreapp3.0\Revifast.Entities.deps.json
+D:\UPC\ISW\New folder\ReviTest\Revifast.Entities\bin\Debug\netcoreapp3.0\Revifast.Entities.dll
+D:\UPC\ISW\New folder\ReviTest\Revifast.Entities\bin\Debug\netcoreapp3.0\Revifast.Entities.pdb
+D:\UPC\ISW\New folder\ReviTest\Revifast.Entities\obj\Debug\netcoreapp3.0\Revifast.Entities.csprojAssemblyReference.cache
+D:\UPC\ISW\New folder\ReviTest\Revifast.Entities\obj\Debug\netcoreapp3.0\Revifast.Entities.AssemblyInfoInputs.cache
+D:\UPC\ISW\New folder\ReviTest\Revifast.Entities\obj\Debug\netcoreapp3.0\Revifast.Entities.AssemblyInfo.cs
+D:\UPC\ISW\New folder\ReviTest\Revifast.Entities\obj\Debug\netcoreapp3.0\Revifast.Entities.csproj.CoreCompileInputs.cache
+D:\UPC\ISW\New folder\ReviTest\Revifast.Entities\obj\Debug\netcoreapp3.0\Revifast.Entities.dll
+D:\UPC\ISW\New folder\ReviTest\Revifast.Entities\obj\Debug\netcoreapp3.0\Revifast.Entities.pdb

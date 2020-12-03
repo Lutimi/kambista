@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourcegroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/misael1/databases/UsuarioProfileService.Api_db",
+      "type": "mssql.azure",
+      "connectionId": "msiael1",
+      "secretStore": "AzureAppSettings"
+    }
+  }
+}

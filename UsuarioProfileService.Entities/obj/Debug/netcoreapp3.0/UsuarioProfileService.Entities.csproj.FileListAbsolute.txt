@@ -1,0 +1,27 @@
+D:\UPC\ISW\New folder\ReviTest\Revifast.Entities\bin\Debug\netcoreapp3.0\UsuarioProfileService.Entities.deps.json
+D:\UPC\ISW\New folder\ReviTest\Revifast.Entities\bin\Debug\netcoreapp3.0\UsuarioProfileService.Entities.dll
+D:\UPC\ISW\New folder\ReviTest\Revifast.Entities\bin\Debug\netcoreapp3.0\UsuarioProfileService.Entities.pdb
+D:\UPC\ISW\New folder\ReviTest\Revifast.Entities\obj\Debug\netcoreapp3.0\UsuarioProfileService.Entities.csprojAssemblyReference.cache
+D:\UPC\ISW\New folder\ReviTest\Revifast.Entities\obj\Debug\netcoreapp3.0\UsuarioProfileService.Entities.AssemblyInfoInputs.cache
+D:\UPC\ISW\New folder\ReviTest\Revifast.Entities\obj\Debug\netcoreapp3.0\UsuarioProfileService.Entities.AssemblyInfo.cs
+D:\UPC\ISW\New folder\ReviTest\Revifast.Entities\obj\Debug\netcoreapp3.0\UsuarioProfileService.Entities.csproj.CoreCompileInputs.cache
+D:\UPC\ISW\New folder\ReviTest\Revifast.Entities\obj\Debug\netcoreapp3.0\UsuarioProfileService.Entities.dll
+D:\UPC\ISW\New folder\ReviTest\Revifast.Entities\obj\Debug\netcoreapp3.0\UsuarioProfileService.Entities.pdb
+D:\UPC\UserProfileService\UsuarioProfileService\UsuarioProfileService.Entities\bin\Debug\netcoreapp3.0\UsuarioProfileService.Entities.deps.json
+D:\UPC\UserProfileService\UsuarioProfileService\UsuarioProfileService.Entities\bin\Debug\netcoreapp3.0\UsuarioProfileService.Entities.dll
+D:\UPC\UserProfileService\UsuarioProfileService\UsuarioProfileService.Entities\bin\Debug\netcoreapp3.0\UsuarioProfileService.Entities.pdb
+D:\UPC\UserProfileService\UsuarioProfileService\UsuarioProfileService.Entities\obj\Debug\netcoreapp3.0\UsuarioProfileService.Entities.csprojAssemblyReference.cache
+D:\UPC\UserProfileService\UsuarioProfileService\UsuarioProfileService.Entities\obj\Debug\netcoreapp3.0\UsuarioProfileService.Entities.AssemblyInfoInputs.cache
+D:\UPC\UserProfileService\UsuarioProfileService\UsuarioProfileService.Entities\obj\Debug\netcoreapp3.0\UsuarioProfileService.Entities.AssemblyInfo.cs
+D:\UPC\UserProfileService\UsuarioProfileService\UsuarioProfileService.Entities\obj\Debug\netcoreapp3.0\UsuarioProfileService.Entities.csproj.CoreCompileInputs.cache
+D:\UPC\UserProfileService\UsuarioProfileService\UsuarioProfileService.Entities\obj\Debug\netcoreapp3.0\UsuarioProfileService.Entities.dll
+D:\UPC\UserProfileService\UsuarioProfileService\UsuarioProfileService.Entities\obj\Debug\netcoreapp3.0\UsuarioProfileService.Entities.pdb
+C:\Users\misat\OneDrive\Desktop\UserProfile\UsuarioProfileService.Entities\bin\Debug\netcoreapp3.0\UsuarioProfileService.Entities.deps.json
+C:\Users\misat\OneDrive\Desktop\UserProfile\UsuarioProfileService.Entities\bin\Debug\netcoreapp3.0\UsuarioProfileService.Entities.dll
+C:\Users\misat\OneDrive\Desktop\UserProfile\UsuarioProfileService.Entities\bin\Debug\netcoreapp3.0\UsuarioProfileService.Entities.pdb
+C:\Users\misat\OneDrive\Desktop\UserProfile\UsuarioProfileService.Entities\obj\Debug\netcoreapp3.0\UsuarioProfileService.Entities.csprojAssemblyReference.cache
+C:\Users\misat\OneDrive\Desktop\UserProfile\UsuarioProfileService.Entities\obj\Debug\netcoreapp3.0\UsuarioProfileService.Entities.AssemblyInfoInputs.cache
+C:\Users\misat\OneDrive\Desktop\UserProfile\UsuarioProfileService.Entities\obj\Debug\netcoreapp3.0\UsuarioProfileService.Entities.AssemblyInfo.cs
+C:\Users\misat\OneDrive\Desktop\UserProfile\UsuarioProfileService.Entities\obj\Debug\netcoreapp3.0\UsuarioProfileService.Entities.csproj.CoreCompileInputs.cache
+C:\Users\misat\OneDrive\Desktop\UserProfile\UsuarioProfileService.Entities\obj\Debug\netcoreapp3.0\UsuarioProfileService.Entities.dll
+C:\Users\misat\OneDrive\Desktop\UserProfile\UsuarioProfileService.Entities\obj\Debug\netcoreapp3.0\UsuarioProfileService.Entities.pdb
